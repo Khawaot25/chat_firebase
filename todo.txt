@@ -1,0 +1,5 @@
+1.Adding Firebase to android
+2.to ios
+3.to web
+
+link : https://www.youtube.com/watch?v=Qwk5oIAkgnY&ab_channel=BackSlashFlutter
