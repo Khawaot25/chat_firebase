@@ -2,4 +2,4 @@
 2.to ios
 3.to web
 
-link : https://www.youtube.com/watch?v=Qwk5oIAkgnY&ab_channel=BackSlashFlutter
+link : https://www.youtube.com/watch?v=Qwk5oIAkgnY&ab_channel=BackSlashFlutter  2.41 hr.
